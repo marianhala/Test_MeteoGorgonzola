@@ -1,0 +1,31 @@
+{
+  "name": "weather-web-app",
+  "version": "1.0.0",
+  "description": "A web application that displays weather data and forecasts for Gorgonzola, Milan, including air quality information.",
+  "main": "public/scripts/app.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0",
+    "babel-loader": "^8.2.2",
+    "eslint": "^7.14.0",
+    "eslint-plugin-react": "^7.27.0"
+  },
+  "keywords": [
+    "weather",
+    "forecast",
+    "air quality",
+    "Gorgonzola",
+    "Milan"
+  ],
+  "author": "test",
+  "license": "MIT"
+}
