@@ -1,7 +1,7 @@
 {
   "name": "weather-web-app",
   "version": "1.0.0",
-  "description": "A web application that displays weather data and forecasts for Gorgonzola, Milan, including air quality information.",
+  "description": "A web application that displays weather data and forecasts for Gorgonzola, Milan,or other location, including air quality information.",
   "main": "public/scripts/app.js",
   "scripts": {
     "start": "webpack serve --mode development",
