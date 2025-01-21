@@ -50,7 +50,7 @@ weather-web-app
 
 ## Usage
 
-Once the application is running, you will see the current weather data for Gorgonzola, including temperature, humidity, and weather conditions. Below the current weather, a 5-day forecast will be displayed, showing daily temperature highs and lows, along with weather conditions. Additionally, air quality information, including AQI levels and pollutants, will be presented.
+Once the application is running, you will see the current weather data for Gorgonzola,or your location, including temperature, humidity, and weather conditions. Below the current weather, a 5-day forecast will be displayed, showing daily temperature highs and lows, along with weather conditions. Additionally, air quality information, including AQI levels and pollutants, will be presented.
 
 ## API Information
 
