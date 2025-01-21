@@ -1,5 +1,5 @@
 export const fetchWeatherData = async (city) => {
-    const apiKey = '8867b17d9139fb6140dc0d31c117588c';
+    const apiKey = 'YourKey';
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
     
     try {
@@ -15,7 +15,7 @@ export const fetchWeatherData = async (city) => {
 };
 
 export const fetchForecastData = async (city) => {
-    const apiKey = '8867b17d9139fb6140dc0d31c117588c';
+    const apiKey = 'YourKey';
     const url = `https://api.openweathermap.org/data/2.5/forecast?q=${city}&appid=${apiKey}&units=metric`;
     
     try {
@@ -31,7 +31,7 @@ export const fetchForecastData = async (city) => {
 };
 
 export const fetchAirQualityData = async (lat, lon) => {
-    const apiKey = '8867b17d9139fb6140dc0d31c117588c';
+    const apiKey = 'YourKey';
     const url = `https://api.openweathermap.org/data/2.5/air_pollution?lat=${lat}&lon=${lon}&appid=${apiKey}`;
     
     try {
