@@ -1,4 +1,4 @@
-const apiKey = '8867b17d9139fb6140dc0d31c117588c'; // Replace with your OpenWeatherMap API key
+const apiKey = 'YourKey'; // Replace with your OpenWeatherMap API key
 const city = 'Gorgonzola';
 const weatherUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city},IT&appid=${apiKey}&units=metric`;
 const forecastUrl = `https://api.openweathermap.org/data/2.5/forecast?q=${city},IT&appid=${apiKey}&units=metric`;
