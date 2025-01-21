@@ -1,6 +1,6 @@
 # Weather Web App
 
-This project is a web application that displays weather data for Gorgonzola, Milan, including current weather conditions, a 5-day forecast, and air quality information. The application fetches data from the OpenWeatherMap API and presents it in a visually appealing layout.
+This project is a web application that displays weather data for Gorgonzola, Milan,or your location,including current weather conditions, a 5-day forecast, and air quality information. The application fetches data from the OpenWeatherMap API and presents it in a visually appealing layout.
 
 ## Project Structure
 
